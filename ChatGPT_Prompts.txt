@@ -1,0 +1,27 @@
+Prompts für Snake Webgame mit ChatGPT.
+
+1. Erstelle eine HTML-Vorlage für das Snake-Spiel mit einem Canvas-Element und den erforderlichen Div-Containern und Buttons.
+
+2. Definiere die benötigten Variablen für das Spiel, wie die Position der Schlange, die Geschwindigkeit, die Position des Essens und den Punktestand.
+
+3. Schreibe eine Funktion, um zufällig die Position des Essens zu generieren.
+
+4. Implementiere eine Funktion zum Bewegen der Schlange.
+
+5. Überprüfe auf Kollisionen mit Wänden oder dem eigenen Schwanz.
+
+6. Handle Tastatureingaben, um die Bewegungsrichtung der Schlange zu ändern.
+
+7. Erzeuge Funktionen, um den Startbildschirm, das Game-Over-Screen und das Pause-Screen anzuzeigen.
+
+8. Schreibe Funktionen, um den Startbildschirm, das Game-Over-Screen und das Pause-Screen auszublenden.
+
+9. Implementiere eine Funktion zum Neustart des Spiels.
+
+10. Starte das Spiel, wenn die Seite vollständig geladen ist.
+
+11. Erstelle eine Funktion für die Hauptschleife des Spiels.
+
+12. Implementiere eine Funktion zum Pausieren des Spiels.
+
+13. Füge CSS-Stile hinzu, um das Erscheinungsbild des Spiels anzupassen.
